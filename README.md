@@ -1,5 +1,7 @@
 ### Hi there 👋!
 
+---
+
 My name is Alexander, and I am a passionate aspiring software developer. You can find my portfolio website [here](https://alexmcori.herokuapp.com).
 
 
@@ -10,6 +12,8 @@ My name is Alexander, and I am a passionate aspiring software developer. You can
  
  
 📫 How to reach me: coricovacMA@gmail.com
+
+---
 
 ### My Most Used Languages!
 
