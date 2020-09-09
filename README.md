@@ -15,8 +15,8 @@ My name is Alexander, and I am a passionate aspiring software developer. You can
 
 ---
 
-### My Most Used Languages!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoricovMA&layout=compact&theme=tokyonight)](https://github.com/CoricovMA/github-readme-stats)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoricovMA&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CoricovMA&theme=tokyonight&show_icons=true" height="170" />
+</div>
 
 
