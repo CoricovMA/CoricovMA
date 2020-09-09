@@ -1,9 +1,9 @@
 ### Hi there 👋!
 
-#### My name is Alexander, and I am a passionate aspiring software developer.
+My name is Alexander, and I am a passionate aspiring software developer.
 
 ### My Most Used Languages!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoricovMA?layout=compact)](https://github.com/CoricovMA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoricovMA&layout=compact)](https://github.com/CoricovMA/github-readme-stats)
 
 <!--
 **CoricovMA/CoricovMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
